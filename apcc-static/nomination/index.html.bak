@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Nomination Form 2026 - APCC</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <style>
+    body{font-family: Arial, Helvetica, sans-serif; padding:24px}
+    .box{border:1px solid #ddd;padding:20px;border-radius:6px;max-width:720px}
+    .btn{display:inline-block;margin-top:12px;padding:10px 16px;background:#0074D9;color:#fff;text-decoration:none;border-radius:4px}
+  </style>
+</head>
+<body>
+  <h1>Nomination Form 2026</h1>
+  <div class="box">
+    <p>Click the button below to download the Nomination Form (PDF).</p>
+    <a class="btn" href="Nomination-Form-2026-ELECTION.pdf" download>Download Nomination Form 2026 (PDF)</a>
+    <p style="font-size:12px;color:#666;margin-top:12px">Note: This is a placeholder PDF. Replace with the official form file when available.</p>
+  </div>
+  <p><a href="/index.html">Back to Home</a></p>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Download Nomination Form 2026</title>
+    <style>
+      body{font-family:Arial,Helvetica,sans-serif;padding:2rem;background:#f8f9fb}
+      .card{max-width:700px;margin:3rem auto;padding:1.5rem;background:#fff;border-radius:8px;box-shadow:0 6px 20px rgba(0,0,0,0.06)}
+      .btn{display:inline-block;background:#c21807;color:#fff;padding:0.8rem 1.2rem;border-radius:6px;text-decoration:none}
+    </style>
+  </head>
+  <body>
+    <div class="card">
+      <h1>Nomination Form 2026</h1>
+      <p>Click the button below to download the official Nomination Form 2026 (PDF).</p>
+      <a class="btn" href="nomination/Nomination_Form_2026.pdf" download>Download Nomination Form 2026</a>
+      <p style="margin-top:1rem;color:#666">If the download does not start, right-click the link and choose "Save link as...".</p>
+    </div>
+  </body>
+</html>
